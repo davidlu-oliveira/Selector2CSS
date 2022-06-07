@@ -1,0 +1,23 @@
+* {
+    color: aqua;
+    font-size: 45px; 
+}
+
+li a{
+    color: brown;
+    border: 0px;
+}
+
+body {
+    background-image: url(https://br.web.img3.acsta.net/newsv7/20/05/07/23/47/2428122.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-size: 65px;
+}
+
+h4{
+    font-size: 50px;
+}
